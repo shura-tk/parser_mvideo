@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/LeroyMerlin/.idea/LeroyMerlin.iml" filepath="$USER_HOME$/PycharmProjects/LeroyMerlin/.idea/LeroyMerlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../get_categories/.idea/get_categories.iml" filepath="$PROJECT_DIR$/../get_categories/.idea/get_categories.iml" />
+      <module fileurl="file://$USER_HOME$/Рабочий стол/mvid_get_shops_id_29_11_22/.idea/mvid_get_shops_id.iml" filepath="$USER_HOME$/Рабочий стол/mvid_get_shops_id_29_11_22/.idea/mvid_get_shops_id.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/parser_mvideo.iml" filepath="$PROJECT_DIR$/.idea/parser_mvideo.iml" />
+    </modules>
+  </component>
+</project>
